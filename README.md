@@ -8,7 +8,7 @@ In this project, I've harnessed the power of Python and Tableau to dive deep int
 - 📈 **Data Exploration:** Leveraging Python's data manipulation libraries, I've meticulously cleaned and processed the raw bike-sharing data. This step ensures that our analysis is based on accurate and reliable information.
 
 - 📊 **Interactive Visualizations:** Using the magic of Tableau, I've transformed the processed data into a series of interactive visualizations. These visualizations provide an intuitive and immersive experience, allowing you to explore trends, correlations, and anomalies related to bike usage in London.
-- Sneak Pic: ![]()
+- Sneak Pic: ![Dashboard Image](https://github.com/Abirgit44/London_Bike_Dataset_Analysis/blob/main/London%20Bike%20Rides%20Dashboard.png)
 
 - 📅 **Temporal Analysis:** Through time-based visualizations, I've delved into usage patterns on a daily, weekly, and monthly basis. Identify recurring trends and discover how external factors such as weather impact bike rentals.
 
@@ -20,9 +20,9 @@ Let's pedal through the data together! 🚴‍♂️📊
 
 **Note:** The dataset used in this project is sourced from [https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset], and all code and visualizations are available for exploration and collaboration.
 
-🌐 Explore the interactive visualizations [here]!
-📔 Access the Jupyter notebooks [here]!
-📁 Download the dataset [here]!
+🌐 Explore the interactive visualizations [here](https://public.tableau.com/app/profile/abir.maiti/viz/Bike_Analysis_Visualizations/LondonBikeRidesDashboard)!
+📔 Access the Jupyter notebooks [here](https://github.com/Abirgit44/London_Bike_Dataset_Analysis/blob/main/London_Bike_Sharing_Analysis.ipynb)!
+📁 Download the dataset [here](https://github.com/Abirgit44/London_Bike_Dataset_Analysis/blob/main/london_bikes_output.xlsx)!
 
 For any questions, ideas, or collaboration opportunities, feel free to reach out to me at [abirmaiti56@gmail.com].
 
