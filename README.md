@@ -21,7 +21,9 @@ Let's pedal through the data together! 🚴‍♂️📊
 **Note:** The dataset used in this project is sourced from [London-Bike-Sharing-Dataset](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset), and all code and visualizations are available for exploration and collaboration.
 
 🌐 Explore the interactive visualizations [here](https://public.tableau.com/app/profile/abir.maiti/viz/Bike_Analysis_Visualizations/LondonBikeRidesDashboard)!
+
 📔 Access the Jupyter notebooks [here](https://github.com/Abirgit44/London_Bike_Dataset_Analysis/blob/main/London_Bike_Sharing_Analysis.ipynb)!
+
 📁 Download the dataset [here](https://github.com/Abirgit44/London_Bike_Dataset_Analysis/blob/main/london_bikes_output.xlsx)!
 
 For any questions, ideas, or collaboration opportunities, feel free to reach out to me at [abirmaiti56@gmail.com].
@@ -32,4 +34,5 @@ Let's turn data into insights, one pedal at a time. 🚀
 This repository showcases the London Bike Dataset Analysis, a project carried out by Abir Maiti. As the author of this project, I've utilized the power of Python and Tableau to extract valuable insights and create interactive visualizations from the London bike-sharing dataset.
 
 👨‍💼 Author: Abir Maiti
-🔗 LinkedIn: [Connect With Me](https://www.linkedin.com/in/abir-maiti-7584a0201/)
+
+🔗 [Connect With Me](https://www.linkedin.com/in/abir-maiti-7584a0201/)
