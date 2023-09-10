@@ -20,7 +20,11 @@ Let's pedal through the data together! 🚴‍♂️📊
 
 **Note:** The dataset used in this project is sourced from [London-Bike-Sharing-Dataset](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset), and all code and visualizations are available for exploration and collaboration.
 
-🌐 Explore the interactive visualizations [here](https://public.tableau.com/app/profile/abir.maiti/viz/Bike_Analysis_Visualizations/LondonBikeRidesDashboard)!
+🌐 Explore the interactive visualizations: 
+<a href="https://public.tableau.com/app/profile/abir.maiti/viz/Bike_Analysis_Visualizations/LondonBikeRidesDashboard">
+    <img src="https://www.tableau.com/sites/default/files/2022-04/TableauLogo_RGB.png" alt="Tableau Logo" style="width: 100px; height: auto;">
+</a>
+
 
 📔 Access the Jupyter notebooks [here](https://github.com/Abirgit44/London_Bike_Dataset_Analysis/blob/main/London_Bike_Sharing_Analysis.ipynb)!
 
